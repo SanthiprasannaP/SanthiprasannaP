@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./banner.png" alt="Aerospace to AI Banner" width="100%" />
+  <img src="./Banner2.png" alt="Aerospace to AI " width="100%" />
 </div>
 
 <br/>
