@@ -28,6 +28,4 @@
 
 <br/>
 
-<div align="center">
-  <i>Building AI systems that don’t just answer — they help decide.</i>
-</div>
+
